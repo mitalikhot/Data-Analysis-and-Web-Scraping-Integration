@@ -39,12 +39,12 @@ This project automates data collection from [quotes.toscrape.com](http://quotes.
 ### Phase 2 — Data Cleaning & Preprocessing
 - Removed null and malformed entries
 - Parsed comma-separated `Tags` strings into individual tag tokens for frequency analysis
-- Computed derived features including `quote_length` (character count) for distribution analysis
+- Computed derived features, including `quote_length` (character count), for distribution analysis
 
 ### Phase 3 — Exploratory Data Analysis
 - Computed **skewness (4.97)** confirming a strong right-skewed distribution in quote lengths — most quotes are brief, with rare long-form outliers
 - Ranked authors and tags by frequency to identify the most represented voices and themes
-- Generated a **word cloud** from quote text to visualise the most prominent vocabulary
+- Generated a **word cloud** from the quote text to visualise the most prominent vocabulary
 
 ---
 
