@@ -59,11 +59,11 @@ This project automates data collection from [quotes.toscrape.com](http://quotes.
 > "Love", "inspirational", and "life" are the dominant themes — the dataset skews heavily toward motivational and emotional content.
 
 ### Top 10 Most Quoted Authors
-![Top Authors](charts/top_most_quoted_authors.png)
+![Top Authors](charts/Top_most_quoted_authors.png)
 > Albert Einstein leads with 10 quotes. The top 7 authors account for a disproportionate share of the dataset.
 
 ### Word Cloud — Most Frequent Words
-![Word Cloud](charts/wordcloud.png)
+![Word Cloud](charts/Word_cloud.png)
 > "Love", "life", "will", "one", and "make" dominate the vocabulary — reinforcing the motivational tone of the corpus.
 
 ---
