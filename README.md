@@ -51,19 +51,19 @@ This project automates data collection from [quotes.toscrape.com](http://quotes.
 ## 📊 Visualizations
 
 ### Distribution of Quote Lengths
-![Quote Length Distribution](charts/quote_length_distribution.png)
+![Quote Length Distribution](charts/Distribution_of_quotes_lengths.png)
 > Quote lengths are right-skewed (skewness: 4.97) — most quotes are under 150 characters, with a long tail of verbose outliers.
 
 ### Top 10 Most Common Tags
-![Top Tags](charts/top_tags.png)
+![Top Tags](charts/Top_most_common_tags.png)
 > "Love", "inspirational", and "life" are the dominant themes — the dataset skews heavily toward motivational and emotional content.
 
 ### Top 10 Most Quoted Authors
-![Top Authors](charts/top_authors.png)
+![Top Authors](charts/top_most_quoted_authors.png)
 > Albert Einstein leads with 10 quotes. The top 7 authors account for a disproportionate share of the dataset.
 
 ### Word Cloud — Most Frequent Words
-![Word Cloud](charts/word_cloud.png)
+![Word Cloud](charts/wordcloud.png)
 > "Love", "life", "will", "one", and "make" dominate the vocabulary — reinforcing the motivational tone of the corpus.
 
 ---
